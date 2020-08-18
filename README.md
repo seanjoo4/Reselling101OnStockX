@@ -9,4 +9,5 @@ I only took one economic course, ECON 25100 - Microeconomics, at Purdue Universi
 * Used StockX's database to extract the prices and statistics of shoes to help make users make the educated decision on whether or not to sell their shoe.
 * Wrote an <a href="/pdfs/Reselling 101 on StockX.pdf">in-depth paper</a> that explores the world of reselling!
 ## Example Outputs
+### Output for Nike Air Force 1 Low Off-White Black White
 ![Output for Nike Air Force 1 Low Off-White Black White](/imgs/exampleOutput.png)
