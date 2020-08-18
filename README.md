@@ -11,3 +11,5 @@ I only took one economic course, ECON 25100 - Microeconomics, at Purdue Universi
 ## Example Outputs
 ### Output for Nike Air Force 1 Low Off-White Black White
 ![Output for Nike Air Force 1 Low Off-White Black White](/imgs/Nike Air Force 1 Low Off-White Black White Output.png)
+### Output for Nike LD Waffle Sacai White Nylon
+![Output](/imgs/Nike LD Waffle Sacai White Nylon Output.png)
