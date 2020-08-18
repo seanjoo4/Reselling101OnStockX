@@ -57,7 +57,7 @@ public class Reselling101OnStockX {
                 int code = huc.getResponseCode();
                 if (code != 404) {
                     errorWithURL = false;
-                    System.out.println(url);
+                    System.out.println("There is your URL: " + url);
                 } else {
                     System.out.println("The entered URL is not valid, please reenter and be careful for any typos!");
                 }
