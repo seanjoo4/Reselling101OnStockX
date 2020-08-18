@@ -7,4 +7,4 @@ I only took one economic course, ECON 251, at Purdue University. Most informatio
 ## Program
 * Utilized JSoup's library to complete the Web Scraping process. For those interested in this external library, vist their site [here](https://jsoup.org/).
 * Used StockX's database to extract the prices and statistics of shoes to help make users make the educated decision on whether or not to sell their shoe.
-* Wrote an in-depth paper that explores the world of reselling!
+* Wrote an [in-depth paper](pdfs/Reselling 101 on StockX.pdf) that explores the world of reselling!
