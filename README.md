@@ -10,8 +10,8 @@ All credit goes to [StockX](https://stockx.com/)! Here is my [reselling Instagra
 * Wrote an <a href="/pdfs/Reselling 101 on StockX.pdf">in-depth paper</a> that explores the world of reselling!
 ## Example Outputs
 ### Output for Nike Air Force 1 Low Off-White Black White
-![Output for Nike Air Force 1 Low Off-White Black White](/imgs/Nike Air Force 1 Low Off-White Black White Output.png?raw=true "Title")
+![Output for Nike Air Force 1 Low Off-White Black White](Reselling101OnStockX/imgs/Nike Air Force 1 Low Off-White Black White Output.png?raw=true "Title")
 ### Output for Nike LD Waffle Sacai White Nylon
-![Output for Nike LD Waffle Sacai White Nylon](/imgs/Nike LD Waffle Sacai White Nylon Output.png?raw=true "Title")
+![Output for Nike LD Waffle Sacai White Nylon](Reselling101OnStockX/imgs/Nike LD Waffle Sacai White Nylon Output.png?raw=true "Title")
 ### Output for Nike Air Force 1 Low Travis Scott Cactus Jack Output
-![Output for Nike Air Force 1 Low Travis Scott Cactus Jack Output](/imgs/Nike Air Force 1 Low Travis Scott Cactus Jack Output.png?raw=true "Title")
+![Output for Nike Air Force 1 Low Travis Scott Cactus Jack Output](Reselling101OnStockX/imgs/Nike Air Force 1 Low Travis Scott Cactus Jack Output.png?raw=true "Title")
