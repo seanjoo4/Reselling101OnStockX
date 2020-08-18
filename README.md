@@ -12,4 +12,6 @@ I only took one economic course, ECON 25100 - Microeconomics, at Purdue Universi
 ### Output for Nike Air Force 1 Low Off-White Black White
 ![Output for Nike Air Force 1 Low Off-White Black White](/imgs/Nike Air Force 1 Low Off-White Black White Output.png)
 ### Output for Nike LD Waffle Sacai White Nylon
-![Output](/imgs/Nike LD Waffle Sacai White Nylon Output.png)
+![Output for Nike LD Waffle Sacai White Nylon](/imgs/Nike LD Waffle Sacai White Nylon Output.png)
+### Output for Nike Air Force 1 Low Travis Scott Cactus Jack Output
+![Output for Nike Air Force 1 Low Travis Scott Cactus Jack Output](/imgs/Nike Air Force 1 Low Travis Scott Cactus Jack Output.png)
