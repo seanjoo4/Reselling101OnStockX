@@ -6,7 +6,7 @@ when selling a sneaker, so I can maximize my profits. It should be noted that my
 course, ECON 25100 - Microeconomics, at Purdue University. Most information is through personal research and my experience reselling. 
 All credit goes to [StockX](https://stockx.com/)! Here is my [reselling Instagram account](https://www.instagram.com/unsaturatedgoods/) for those interested!
 ## Program
-* Utilized JSoup's library to complete the Web Scraping process. For those interested in this external library, vist their site [here](https://jsoup.org/).
+* Utilized JSoup's library to complete the Web Scraping process. For those interested in this external library, visit their site [here](https://jsoup.org/).
 * Used StockX's database to extract the prices and statistics of shoes to help make users make the educated decision on whether or not to sell their shoe.
 * Wrote an <a href="/pdfs/Reselling 101 on StockX.pdf">in-depth paper</a> that explores the world of reselling!
 ## Example Outputs
